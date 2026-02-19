@@ -1,11 +1,10 @@
 
-import './App.css'
 
 function App() {
 
   return (
     <>
-      
+      <h1>MERN Auth App</h1>
     </>
   )
 }
