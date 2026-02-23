@@ -1,10 +1,10 @@
-
+import Signup from "./pages/signup"
 
 function App() {
 
   return (
     <>
-      <h1>MERN Auth App</h1>
+    <Signup />
     </>
   )
 }
